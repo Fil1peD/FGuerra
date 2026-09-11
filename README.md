@@ -43,3 +43,8 @@ Logout guarda kit do evento e restaura inventário original · reconectar devolv
 **Sistemas**
 - Após **3 saídas/quedas**, o jogador deixa de poder usar `/guerra reconectar`  
 - Limite configurável em `max-saidas-reconectar` no `config.yml`  
+
+
+### FClans
+
+**Dependencia opcional do FGuerra, caso nao queira usar FClans, pode usar SimpleClans**
